@@ -1,6 +1,6 @@
 # Learning JavaScript
 
-To learn **JS ECMAScript 6** (European Computer Manufactures Association) in detail: <a href="https://github.com/princebansal7/Web-Dev-Basics/tree/main/ES6-JS">Click Here</a>
+To learn web-dev &  **JS ECMAScript 6** (European Computer Manufactures Association) in detail: <a href="https://github.com/princebansal7/Web-Development-Concepts">Click Here</a>
 
 #### PS: `nvm` (_node version manager_) must be installed on your system for below commands.
 
