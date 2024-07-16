@@ -11,47 +11,47 @@ To learn **JS ECMAScript 6** (European Computer Manufactures Association) in det
 
 - To Check all node js Versions via `nvm`:
 
-  ```
+  ```yaml
   nvm list-remote
   ```
 
 - To install node js from listed versions:
 
-  ```
+  ```yaml
   nvm install v16.15.0
   ```
 
 - To Uninstall older installed node js versions:
 
-  ```
+  ```yml
   nvm uninstall v16.14.2
   ```
 
 - To Check node js version:
-  ```
+  ```yml
   node --version
   ```
 - To Check local `nvm` node js version:
 
-  ```
+  ```yml
   nvm list
   ```
 
 - To temporarily switch node js versions using `nvm`:
 
-  ```
+  ```yml
   nvm use v16.15.0
   ```
 
 - To switch default node js version (v16.14.2) to latest version (v16.15.0):
 
-  ```
+  ```yml
   nvm alias default v16.15.0
   nvm use default
   ```
 
 - To Check node js version:
-  ```
+  ```yml
   node --version
   ```
   </details>
