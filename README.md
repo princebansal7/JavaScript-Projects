@@ -3,58 +3,54 @@
 To learn web-dev &  **JS ECMAScript 6** (European Computer Manufactures Association) in detail: <a href="https://github.com/princebansal7/Web-Development-Concepts">Click Here</a>
 
 #### PS: `nvm` (_node version manager_) must be installed on your system for below commands.
+ 
+#### Steps to install NodeJs via `nvm`
 
-<details>
-<summary> Steps to install NodeJs </summary>
+  - To Check all node js Versions:
 
-#### `nvm` commnads for **Node js**
+    ```yaml
+    nvm list-remote
+    ```
 
-- To Check all node js Versions via `nvm`:
+  - To install node js from listed versions:
 
-  ```yaml
-  nvm list-remote
-  ```
+    ```yaml
+    nvm install v16.15.0
+    ```
 
-- To install node js from listed versions:
+  - To Uninstall older installed node js versions:
 
-  ```yaml
-  nvm install v16.15.0
-  ```
+    ```yml
+    nvm uninstall v16.14.2
+    ```
 
-- To Uninstall older installed node js versions:
+  - To Check node js version:
+    ```yml
+    node --version
+    ```
+  - To Check local `nvm` node js version:
 
-  ```yml
-  nvm uninstall v16.14.2
-  ```
+    ```yml
+    nvm list
+    ```
 
-- To Check node js version:
-  ```yml
-  node --version
-  ```
-- To Check local `nvm` node js version:
+  - To temporarily switch node js versions using `nvm`:
 
-  ```yml
-  nvm list
-  ```
+    ```yml
+    nvm use v16.15.0
+    ```
 
-- To temporarily switch node js versions using `nvm`:
+  - To switch default node js version (v16.14.2) to latest version (v16.15.0):
 
-  ```yml
-  nvm use v16.15.0
-  ```
+    ```yml
+    nvm alias default v16.15.0
+    nvm use default
+    ```
 
-- To switch default node js version (v16.14.2) to latest version (v16.15.0):
-
-  ```yml
-  nvm alias default v16.15.0
-  nvm use default
-  ```
-
-- To Check node js version:
-  ```yml
-  node --version
-  ```
-  </details>
+  - To Check node js version:
+    ```yml
+    node --version
+    ```
 
 <details>
 <summary>Steps to use Chrome debugger</summary>
