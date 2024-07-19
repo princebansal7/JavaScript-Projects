@@ -52,6 +52,13 @@ To learn web-dev &  **JS ECMAScript 6** (European Computer Manufactures Associat
     node --version
     ```
 
+- Projects
+  - [Guess-the-Number](https://github.com/princebansal7/GuessMyNumber-JS)
+  - 
+     <img alt="sample-image" src="/dom-guess-my-number/img/1.png">
+     <img alt="sample-image" src="/dom-guess-my-number/img/2.png">
+     <img alt="sample-image" src="/dom-guess-my-number/img/9.png">
+
 <details>
 <summary>Steps to use Chrome debugger</summary>
 
@@ -68,24 +75,4 @@ To learn web-dev &  **JS ECMAScript 6** (European Computer Manufactures Associat
 
 - Simply add `debugger;` statement in your js code. it will automatilly call browser's debugger tab from the line where you've added the `debugger;` statement.
 
-</details>
-
-<details>
-<summary>Projects</summary>
-<br>
-<blockquote>
-  <details>
-   <summary>Guess The Number [<a href="https://github.com/princebansal7/GuessMyNumber-JS" target="_blank"> Project-1 </a> ]</summary>
-   <br>
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/1.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/2.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/3.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/4.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/5.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/6.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/8.png">
-     <img alt="sample-image" src="/3.DOM-BasicProjects/1.GuessMyNumber/img/9.png">
-  </details>
-
-</blockquote>
 </details>
